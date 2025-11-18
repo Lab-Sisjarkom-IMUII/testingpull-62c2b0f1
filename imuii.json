@@ -1,0 +1,11 @@
+{
+  "name": "testingpull",
+  "framework": "react",
+  "language": "javascript",
+  "buildCommand": "npm install && npm run build",
+  "startCommand": "npm start",
+  "domain": "testingpull",
+  "email": "d.raihan2004@gmail.com",
+  "secretKey": "imuii_66dc489e010b1d194e815dfd2d51fcb4fe8a58701309c4bf07c03fa92bd5c4ab",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/testingpull-62c2b0f1.git"
+}
